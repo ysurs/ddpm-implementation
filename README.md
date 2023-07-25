@@ -1,2 +1,2 @@
-# ddpm-implementation
-This repo will contain ddpm implementation and notes.
+# diffusion-implementation
+This repo will contain code used in understanding diffusion as a foundation model.
